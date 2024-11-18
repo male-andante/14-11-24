@@ -45,17 +45,18 @@ Sono invece structural data i dati costituiti da un insieme di dati primitivi, u
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
 */
 
-/* 
-const X = 12
+
+/*const X = 12
 const Y = 20
 let somma = X + Y
-console.log(somma)*/
+console.log("la somma dei due numeri è: " + somma)
+console.log(`la somma dei due numeri è: ${somma}`)*/
 
 /* ESERCIZIO 4
  Crea una variable di nome "x" e assegna ad essa il numero 12.
 */
 
-/* let x = 12 */
+/*let x = 12*/
 
 /* ESERCIZIO 5
  Crea una variable chiamata "name" e assegna ad essa il tuo nome, sotto forma di stringa.
@@ -67,11 +68,11 @@ console.log(somma)*/
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
 */
 
-/* 
-const y = 4
+
+/*const y = 4
 let sottrazione = y - x
-console.log(sottrazione) 
-*/
+console.log(`la sottrazione tra 4 e 12 è: ${sottrazione}`)*/
+
 
 /* ESERCIZIO 7
  Crea due variabili: "name1" e "name2". Assegna a name1 la stringa "john", e assegna a name2 la stringa "John" (con la J maiuscola!).
@@ -80,9 +81,9 @@ console.log(sottrazione)
  NON HAI BISOGNO DI UN BLOCCO IF/ELSE. E' sufficiente utilizzare console.log().
 */
 
-/* 
-let name1 = "john"
+ 
+/*let name1 = "john"
 let name2 = "John"
-console.log(name1 = name2)
-console.log(name1.toLowerCase() === name2.toLowerCase()) 
-*/
+console.log(name1 === name2)
+console.log(name1.toLowerCase() === name2.toLowerCase())*/
+
